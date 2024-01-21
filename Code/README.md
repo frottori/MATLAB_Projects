@@ -99,8 +99,6 @@ $$
 
 <<p align="center">
   <img src="./Images/ask05a.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask05b.jpg" alt="image" width="500">
 </p>
 
@@ -127,8 +125,6 @@ $$
 
 <<p align="center">
   <img src="./Images/ask07a.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask07b.jpg" alt="image" width="500">
 </p>
   
@@ -168,11 +164,7 @@ $$
 
 <p align="center">
   <img src="./Images/ask09a.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask09b.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask09c.jpg" alt="image" width="500">
 </p>
 
@@ -195,8 +187,6 @@ b) Να βρεθεί και να σχεδιαστεί για n=[-20 : 20] η κ�
 
 <<p align="center">
   <img src="./Images/ask10a.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask10b.jpg" alt="image" width="500">
 </p>
   
@@ -226,8 +216,6 @@ $$y[n] = \frac{1}{8} \sum_{m=0}^{7} x[n-m]$$
 
 <<p align="center">
   <img src="./Images/ask11a.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask11b.jpg" alt="image" width="500">
 </p>
 
@@ -299,8 +287,6 @@ $$
 
 <<p align="center">
   <img src="./Images/ask16a.png" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask16b.jpg" alt="image" width="500">
 </p>
 
@@ -318,11 +304,7 @@ $$
 
 <<p align="center">
   <img src="./Images/ask17a.png" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask17b.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask17c.jpg" alt="image" width="500">
 </p>
   
@@ -340,8 +322,6 @@ $$
 
 <<p align="center">
   <img src="./Images/ask18a.png" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask18b.jpg" alt="image" width="500">
 </p>
 
@@ -388,11 +368,7 @@ $$
 
 <<p align="center">
   <img src="./Images/ask20a.png" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask20b.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask20c.jpg" alt="image" width="500">
 </p>
 
