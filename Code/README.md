@@ -13,6 +13,10 @@ $$
 a) x[n] \quad b) x[n-5] \quad c) x[n+4] \quad d) x[-n] \quad e) x[n/2] \quad f) x[2n]
 $$
 
+<p align="center">
+  <img src="./Images/ask01.jpg" alt="image" width="500">
+</p>
+
 ---
 ## Άσκηση 2
 Nα σχεδιαστούν τα σήματα διακριτού χρόνου <br>
