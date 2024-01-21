@@ -2,11 +2,11 @@
 ---
 ## Άσκηση 1
 Να δημιουργηθεί το σήμα  διακριτού χρόνου
-$$
 
+$$
 x[n] = [1 \quad 2 \quad \underset{\uparrow}{3} \quad 4 \quad 5 \quad 6 \quad 7 \quad 6 \quad 5 \quad 4 \quad 3 \quad 2 \quad 1]
-
 $$
+
 Σε  έξι  υποπαράθυρα  του  ίδιου  γραφικού  παράθυρου  να  δημιουργηθούν  οι  γραφικές παραστάσεις των :
 $$
 a) x[n] \quad b) x[n-5] \quad c) x[n+4] \quad d) x[-n] \quad e) x[n/2] \quad f) x[2n]
