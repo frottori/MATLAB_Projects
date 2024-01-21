@@ -366,7 +366,7 @@ $$
 Η ιδιότητα της γραμμικότητας για το DTFT εκφράζεται από την ακόλουθη σχέση
 
 $$
-\mathcal{DTFT}\ {\alpha x_1[n] + \beta x_2[n]\} \longleftrightarrow \alpha X_1(e^{j\omega}) + \beta X_2(e^{j\omega})
+\stackrel{\text{DTFT}}{\mathcal{DTFT}\{\alpha x_1[n] + \beta x_2[n]\}} \longleftrightarrow \alpha X_1(e^{j\omega}) + \beta X_2(e^{j\omega})
 $$
 
 Να γραφτεί πρόγραμμα που θα διαπιστώνει την ισχύ της ιδιότητας, θέτωντας $x1[n], x2[n]$ δύο
