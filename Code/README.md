@@ -67,7 +67,7 @@ $$
 z[n] = x_1[n] + x_2[n] + x_3[n]
 $$
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask03a.jpg" alt="image" width="500">
   <img src="./Images/ask03b.jpg" alt="image" width="500">
 </p>
@@ -78,7 +78,7 @@ $$
 
    Στη συνέχεια με χρήση της συνάρτησης,  να υπολογιστεί το άρτιο και περιττό μέρος της ακολουθίας του σήματος x[n] του ερωτήματος 2β. Να γίνουν οι γραφικές παραστάσεις.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask04.jpg" alt="image" width="500">
 </p>
 
@@ -97,7 +97,7 @@ $$
 θέτωντας −12≤𝑛≤12.
 Να γίνει η γραφική παράσταση των σημάτων της κρουστικής απόκρισης, της εισόδου και της εξόδου του συστήματος.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask05a.jpg" alt="image" width="500">
   <img src="./Images/ask05b.jpg" alt="image" width="500">
 </p>
@@ -123,7 +123,7 @@ $$
 Να γίνει η γραφική παράσταση των z[n], x[n], y[n] στους κατάλληλους άξονες. Τέλος, να
 επαληθευτεί το αποτέλεσμα με τη χρήση της conv().
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask07a.jpg" alt="image" width="500">
   <img src="./Images/ask07b.jpg" alt="image" width="500">
 </p>
@@ -142,7 +142,7 @@ $$
 παραθύρου να σχεδιαστούν οι είσοδοι x1, x2 και οι δύο έξοδοι που σχετίζονται με τη
 διερεύνηση της γραμμικότητας.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask08.jpg" alt="image" width="500">
 </p>
 
@@ -185,7 +185,7 @@ $$
 b) Να βρεθεί και να σχεδιαστεί για n=[-20 : 20] η κρουστική απόκριση του συστήματος
 με χρήση της συνάρτησης impz (help impz για σύνταξη).
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask10a.jpg" alt="image" width="500">
   <img src="./Images/ask10b.jpg" alt="image" width="500">
 </p>
@@ -214,7 +214,7 @@ $$
 $$y[n] = \frac{1}{8} \sum_{m=0}^{7} x[n-m]$$
 Συγκρίνετε τα δύο συστήματα.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask11a.jpg" alt="image" width="500">
   <img src="./Images/ask11b.jpg" alt="image" width="500">
 </p>
@@ -231,7 +231,7 @@ $$
 Να σχεδιαστεί η απόκρισή του στη μοναδιαία βηματική ακολουθία (βηματική απόκριση) στο
 διάστημα −10≤𝑛≤10.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask12.jpg" alt="image" width="500">
 </p>
 
@@ -248,7 +248,7 @@ $$
 Y(z) = \frac{z^2+1.6z}{(z + 0.8)(0.5z - 0.8)}
 $$
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask13.png" alt="image" width="500">
 </p>
 
@@ -261,7 +261,7 @@ $$
 X(z) = \frac{z^2 + z + 1}{z(z + 0.4)(z + 0.5)}
 $$
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask14.png" alt="image" width="500">
 </p>
 
@@ -270,7 +270,7 @@ $$
 Δίνεται σύστημα ΓΧΑ με κρουστική απόκριση $h(n)=0.9n u(n)$. Να βρεθεί η συνάρτηση
 μεταφοράς του, να διερευνηθεί αν είναι ευσταθές, να γίνει το διάγραμμα πόλων μηδενικών.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask15.jpg" alt="image" width="500">
 </p>
 
@@ -285,7 +285,7 @@ $$
 με δύο τρόπους α) με χρήση tf() β) με χρήση solve(). Nα ελεγχθεί η ευστάθεια, να γίνει
 διάγραμμα πόλων μηδενικών.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask16a.png" alt="image" width="500">
   <img src="./Images/ask16b.jpg" alt="image" width="500">
 </p>
@@ -302,7 +302,7 @@ $$
 
 Να γίνει το διάγραμμα πόλων μηδενικών και να προσδιοριστεί η ΠΣ.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask17a.png" alt="image" width="500">
   <img src="./Images/ask17b.jpg" alt="image" width="500">
   <img src="./Images/ask17c.jpg" alt="image" width="500">
@@ -320,7 +320,7 @@ $$
 Να υπολογιστεί η έξοδος του συστήματος αν το σήμα εισόδου είναι x(n) = u(n) και το σύστημα
 βρίσκεται σε ηρεμία.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask18a.png" alt="image" width="500">
   <img src="./Images/ask18b.jpg" alt="image" width="500">
 </p>
@@ -351,7 +351,7 @@ $$
 
 Να βρεθεί η συνολική κρουστική απόκριση της διάταξης με χρήση της impz().
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask19.jpg" alt="image" width="500">
 </p>
 
@@ -366,7 +366,7 @@ $$
 εφαρμόζεται είσοδος $𝑥[𝑛] = 𝑢[𝑛]$. Να σχεδιαστεί η έξοδος $y[n]$ για $0≤𝑛≤300$. Με
 χρήση της freqz() να αναπαρασταθεί η απόκριση συχνότητας του συστήματος.
 
-<<p align="center">
+<p align="center">
   <img src="./Images/ask20a.png" alt="image" width="500">
   <img src="./Images/ask20b.jpg" alt="image" width="500">
   <img src="./Images/ask20c.jpg" alt="image" width="500">
