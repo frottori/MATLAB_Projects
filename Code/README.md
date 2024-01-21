@@ -248,10 +248,6 @@ $$
 Y(z) = \frac{z^2+1.6z}{(z + 0.8)(0.5z - 0.8)}
 $$
 
-<p align="center">
-  <img src="./Images/ask13.png" alt="image" width="500">
-</p>
-
 ---
 ## Άσκηση 14
 Με χρήση των συναρτήσεων poly() και residue() να αναλυθεί σε άθροισμα απλών
@@ -260,10 +256,6 @@ $$
 $$
 X(z) = \frac{z^2 + z + 1}{z(z + 0.4)(z + 0.5)}
 $$
-
-<p align="center">
-  <img src="./Images/ask14.png" alt="image" width="500">
-</p>
 
 ---
 ## Άσκηση 15
@@ -286,7 +278,7 @@ $$
 διάγραμμα πόλων μηδενικών.
 
 <p align="center">
-  <img src="./Images/ask16a.png" alt="image" width="500">
+
   <img src="./Images/ask16b.jpg" alt="image" width="500">
 </p>
 
@@ -303,7 +295,7 @@ $$
 Να γίνει το διάγραμμα πόλων μηδενικών και να προσδιοριστεί η ΠΣ.
 
 <p align="center">
-  <img src="./Images/ask17a.png" alt="image" width="500">
+
   <img src="./Images/ask17b.jpg" alt="image" width="500">
   <img src="./Images/ask17c.jpg" alt="image" width="500">
 </p>
@@ -321,7 +313,7 @@ $$
 βρίσκεται σε ηρεμία.
 
 <p align="center">
-  <img src="./Images/ask18a.png" alt="image" width="500">
+
   <img src="./Images/ask18b.jpg" alt="image" width="500">
 </p>
 
@@ -330,10 +322,6 @@ $$
 ## Άσκηση 19
 Δίνονται τα ΓΧΑ συστήματα S1, S2, S3 τα οποία είναι συνδεδεμένα μεταξύ τους όπως
 φαίνεται στο σχήμα:
-
-<p align="center">
-  <img src="./Images/image.png" alt="image" width="500">
-</p>
 
 και περιγράφονται από τις εξισώσεις διαφορών:
 
@@ -367,7 +355,7 @@ $$
 χρήση της freqz() να αναπαρασταθεί η απόκριση συχνότητας του συστήματος.
 
 <p align="center">
-  <img src="./Images/ask20a.png" alt="image" width="500">
+
   <img src="./Images/ask20b.jpg" alt="image" width="500">
   <img src="./Images/ask20c.jpg" alt="image" width="500">
 </p>
