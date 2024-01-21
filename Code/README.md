@@ -254,9 +254,9 @@ $$
 Δίνονται τα ΓΧΑ συστήματα S1, S2, S3 τα οποία είναι συνδεδεμένα μεταξύ τους όπως
 φαίνεται στο σχήμα:
 
-<div style="text-align: center;">
-    <img src="image.png" alt="image" width="500">
-</div>
+<p align="center">
+  <img src="image.png" alt="image" width="500">
+</p>
 
 και περιγράφονται από τις εξισώσεις διαφορών:
 
