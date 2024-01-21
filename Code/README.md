@@ -255,7 +255,7 @@ $$
 φαίνεται στο σχήμα:
 
 <p align="center">
-  <img src="image.png" alt="image" width="500">
+  <img src="/Images/image.png" alt="image" width="500">
 </p>
 
 και περιγράφονται από τις εξισώσεις διαφορών:
