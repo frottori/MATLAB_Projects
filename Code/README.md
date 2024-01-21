@@ -69,8 +69,6 @@ $$
 
 <<p align="center">
   <img src="./Images/ask03a.jpg" alt="image" width="500">
-</p>
-<<p align="center">
   <img src="./Images/ask03b.jpg" alt="image" width="500">
 </p>
 
