@@ -62,7 +62,10 @@ $$
 $$
 z[n] = x_1[n] + x_2[n] + x_3[n]
 $$
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Images/ask03a.jpg" alt="Image 1" width="300">
+  <img src="./Images/ask03b.jpg" alt="Image 2" width="300">
+</div>
 
 ---
 ## Άσκηση 4 (ev_od.m)
