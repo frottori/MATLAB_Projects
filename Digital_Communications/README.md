@@ -56,7 +56,9 @@
 
 <p align="center">
   <img src="./Images/ask03.jpg" alt="image" width="500">
-  <img src="./Images/ask03.png" alt="image" width="500">
+</p>
+<p align="center">
+    <img src="./Images/ask03.png" alt="image" width="500">
 </p>
 
 ---
@@ -227,7 +229,7 @@
 <p align="center">
  <img src="./Images/ask18a.jpg" alt="image" width="500">
   <img src="./Images/ask18b.jpg" alt="image" width="500">
-  <img src="./Images/ask18.png" alt="image" width="500">
+  <img src="./Images/ask18.png" alt="image" width="250">
 </p>
 
 
@@ -253,7 +255,7 @@
 <p align="center">
   <img src="./Images/ask20a.jpg" alt="image" width="500">
   <img src="./Images/ask20b.jpg" alt="image" width="500">
-  <img src="./Images/ask20.png" alt="image" width="500">
+  <img src="./Images/ask20.png" alt="image" width="250">
 </p>
 
 ---
@@ -271,8 +273,14 @@
 Συγκρίνετε τις πιθανότητες εμφάνισης των γραμμάτων από το κείμενο (επιλέξτε μερικά μόνο) με τις πιθανότητες εμφάνισης των γραμμάτων σε αγγλικά κείμενα όπως παρουσιάζονται στο παραπάνω γράφημα. Συγκρίνετε επίσης τον κώδικα Huffman που δημιουργήσατε με την κωδικοποίηση Morse.
 <p align="center">
   <img src="./Images/ask21a.png" alt="image" width="500">
+</p>
+<p align="center">
   <img src="./Images/ask21b.png" alt="image" width="500">
+</p>
+<p align="center">
   <img src="./Images/ask21c.png" alt="image" width="500">
+</p>
+<p align="center">
   <img src="./Images/ask21.jpg" alt="image" width="500">
 </p>
 
