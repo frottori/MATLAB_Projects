@@ -340,5 +340,7 @@ encode(mes,n, k, 'hamming')
 
 <p align="center">
   <img src="./Images/ask25a.png" alt="image" width="500">
+</p>
+<p align="center">
    <img src="./Images/ask25b.png" alt="image" width="500">
 </p>
